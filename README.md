@@ -2,6 +2,8 @@
 
 A lightweight command-line task manager written in pure Python — no dependencies, no frameworks, just Python and a JSON file.
 
+References: https://roadmap.sh/projects/task-tracker
+
 ---
 
 ## Features
